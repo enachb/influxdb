@@ -20,7 +20,7 @@ You can now push new image to the registry:
 Tags
 ----
 
-    tutum/influxdb:latest -> influxdb 0.9.6.1
+    enachb/influxdb:latest -> influxdb 0.10.0
     tutum/influxdb:0.9    -> influxdb 0.9.6.1
     tutum/influxdb:0.8.8  -> influxdb 0.8.8
 
